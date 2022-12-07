@@ -1,0 +1,25 @@
+.flexbox {
+
+    background-color: blue;
+    width: 500px;
+    height: 400px;
+    position: relative;
+    left: 400px;
+
+}
+
+.item1 {
+    background-color: red;
+    width: 500px;
+    height: 100px;
+    position: absolute;
+    
+}
+
+.item1-1 {
+    background-color: aqua;
+    width: 50px;
+    height: 100px;
+    position: absolute;
+    
+}
